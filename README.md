@@ -8,3 +8,6 @@ This is a simple calculator application written in Java. It supports basic arith
 
 ## Usage
 To run the calculator, compile the `Calculator.java` file and execute the program from the command line.
+
+
+![](https://github.com/AbhiramN-Mern/Calculator/blob/main/Screenshot%20Of%20Calculator.png)
